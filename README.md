@@ -2,7 +2,7 @@
 
 **Senior Data Analyst / Analytics Engineer** — building the data layer behind enterprise decision-making.
 
-5+ years across SQL modeling, dbt pipelines, Power BI delivery, and applied ML. I've owned full analytics stacks for clients in automotive (10 brands across 12 European markets), pharmaceuticals, and B2B SaaS — on BigQuery and Snowflake. Comfortable from raw event data through to executive dashboards, and from production ML pipelines through to the explainability that lets non-technical stakeholders actually trust the output.
+5+ years across SQL modeling, dbt pipelines, Power BI delivery, and applied ML. I've owned full analytics stacks for clients across automotive, pharmaceuticals, and B2B SaaS — on BigQuery and Snowflake. Comfortable from raw event data through to executive dashboards, and from production ML pipelines through to the explainability that lets non-technical stakeholders actually trust the output.
 
 Based in Romania, working remotely across EMEA.
 
@@ -42,7 +42,7 @@ Automated B2B SaaS lead qualification using GPT-4o-mini. Three scoring framework
 
 ## Currently
 
-Senior Data Analyst at a global digital consultancy, embedded in an automotive sector engagement covering web analytics across 10 brands in 12 European markets (Power BI + dbt on GCP). Previously delivered Power BI + ML segmentation on Snowflake for pharmaceutical sector engagements.
+Senior Data Analyst at a global digital consultancy, embedded in an automotive sector engagement (Power BI + dbt on GCP). Previously delivered Power BI + ML segmentation on Snowflake for pharmaceutical sector engagements.
 
 ---
 

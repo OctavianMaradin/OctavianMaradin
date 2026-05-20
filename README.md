@@ -42,7 +42,7 @@ Automated B2B SaaS lead qualification using GPT-4o-mini. Three scoring framework
 
 ## Currently
 
-Senior Data Analyst at **Publicis Sapient**, embedded in an automotive engagement covering web analytics across 10 brands in 12 European markets (Power BI + dbt on GCP). Previously delivered Power BI + ML segmentation on Snowflake for pharmaceutical engagements via Tecknoworks / McKinsey.
+Senior Data Analyst at a global digital consultancy, embedded in an automotive sector engagement covering web analytics across 10 brands in 12 European markets (Power BI + dbt on GCP). Previously delivered Power BI + ML segmentation on Snowflake for pharmaceutical sector engagements.
 
 ---
 
